@@ -1,5 +1,7 @@
 # so_long2
 
+![so_long_image](so_long.png)
+
 Pour github, pour que le projet fonctionne:
 
 Telecharge le dossier avec tous les graphiques dedans provenant de TON github (https://github.com/leitn)
