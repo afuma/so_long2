@@ -61,5 +61,7 @@ Le 23 mai 2023
 	A faire:
 		- implementer toutes les positions et les differentes images dans le code.
 		- faire la gestion des ennemis (bonus)
+		- voir pour la liberation de la memoire quand on appuie sur ctrl + c
+		- voir pour les autres bonus (zoom)
 		
 	
