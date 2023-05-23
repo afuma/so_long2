@@ -10,12 +10,12 @@ Telecharge la mlx_linux et decompresse la a la racine du projet
 
 A la fin tu devrais avoir ca:
 exemple d'arborescence fonctionnel:
-	libft/
-	get_next_line/
-	Makefile
-	srcs/
-	graphics/
-	mlx_linux/
-	maps/
-	includes/
-	TO_DO_IT
+    libft/
+    get_next_line/
+    Makefile
+    srcs/
+    graphics/
+    mlx_linux/
+    maps/
+    includes/
+    TO_DO_IT
