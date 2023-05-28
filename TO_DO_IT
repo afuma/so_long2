@@ -64,4 +64,14 @@ Le 23 mai 2023
 		- voir pour la liberation de la memoire quand on appuie sur ctrl + c
 		- voir pour les autres bonus (zoom)
 		
+Le 28 mai:
+	Fais:
+		- implementer les sprites du player sans bug du au taux de rafraichissement de la map
+	
+	A faire:
+		- gerer le cas map_null.ber (il n'y a rien dans la fenetre)
+		- ouvrir la porte a max collectibles
+		- floodfill : la porte est un mur
+		- implementer la patrouille ennemy (bonus)
+		
 	
